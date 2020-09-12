@@ -1,0 +1,22 @@
+{
+  "name": "typescript-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/main.js",
+  "scripts": {
+    "start": "node ./dist/main.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webheybro/typescript-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webheybro/typescript-example/issues"
+  },
+  "homepage": "https://github.com/webheybro/typescript-example#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
